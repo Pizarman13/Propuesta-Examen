@@ -1,2 +1,3 @@
 # Propuesta-Examen
-Propuesta de examen
+https://github.com/Pizarman13/Propuesta-Examen.git
+Propuesta de examen de Diego Pizarro
