@@ -6,7 +6,7 @@ void encontrarTriplesPitagoricos(int limite) {
         for (b = a; b <= limite; b++) {
             c = sqrt(a*a + b*b);
             if (a*a + b*b == c*c) {
-                printf("(%d, %d, %d)\n", a, b, c);
+                printf("(- %d, - %d, - %d)\n", a, b, c);
             }
         }
     }
