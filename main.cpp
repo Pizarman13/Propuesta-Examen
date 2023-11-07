@@ -3,7 +3,9 @@
 void encontrarTriplesPitagoricos(int limite) {
     int a, b, c;
     for (a = 1; a <= limite; a++) {
-        printf(a);
+        for (b = a; b <= limite; b++) {
+            printf(a, b);
+        }
     }
 }
 
