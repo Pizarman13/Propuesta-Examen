@@ -1,0 +1,3 @@
+C:/Users/Diego/Documents/GitHub/Propuesta-Examen/cmake-build-debug/CMakeFiles/Propuesta_Examen.dir
+C:/Users/Diego/Documents/GitHub/Propuesta-Examen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Diego/Documents/GitHub/Propuesta-Examen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
