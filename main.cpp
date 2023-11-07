@@ -7,7 +7,7 @@ void encontrarTriplesPitagoricos(int limite) {
         for (b = a; b <= limite; b++) {
             c = sqrt(a*a + b*b);
             if (c <= limite && a*a + b*b == c*c) {
-                printf("(- %d, - %d, - %d)\n", a, b, c);
+                printf("- %d - %d - %d\n", a, b, c);
             }
         }
     }
@@ -16,6 +16,6 @@ void encontrarTriplesPitagoricos(int limite) {
 int main() {
     std::cout << "Hello, World!" << std::endl;
 
-    encontrarTriplesPitagoricos(100);
+    encontrarTriplesPitagoricos(20);
     return 0;
 }
